@@ -1,0 +1,171 @@
+BODY{
+  font-family: Gill Sans, Helvetica, Arial narrow;
+  font-size: 11pt;	
+  margin: 5px;
+  padding: 4px;
+  border: 0px none;
+  color: #333333;
+  background-color: #dddddd;
+}
+
+A:visited {
+  color: #CC3333; 
+  text-decoration:none;
+}
+
+A:link {
+ color: #003399; 
+ text-decoration:none;
+}
+
+A:hover,active {
+  color: #6699CC;
+}
+
+
+
+A.tiny_link {
+  text-decoration: none; 
+  font-size:7pt;
+  color:#000000;
+  target: _other; 
+}
+
+li.primer3{
+  font-size: 10.5px;
+  list-style-image: none;
+  list-style-type: none;
+}
+
+h1,h2,h3{
+  color: #000000   
+}
+
+
+table.intro {
+ font-size: 11pt; 
+ width: 900px;
+}	
+
+p.border { 
+  border-style: outset;
+} 
+
+table.buttons {
+width: 500px;
+}
+
+div.smaller {
+ font-size: 12pt;
+}
+
+div.buttons {
+ position: relative;
+ padding: 0px;
+ width: 600px;
+ font-size: 24pt;
+}
+
+td.button {
+ padding: 10px;
+ font-size: 18pt;
+ }
+
+img.button {
+ border: 0;
+}
+div.intro {
+ position: relative;
+ font-size: 10pt;
+ width: 1000px;
+ position: relative;
+ padding: 0px;
+}
+
+img.logo {
+ border: 0;
+ width: 100px;
+ padding: 10px;
+
+}
+
+div.highlights {
+ font-size: 10pt;
+ text-align: left;
+}
+
+table.footer {
+ width: 800px;
+}
+
+div.footer {
+ position: relative;
+ font-size: 10pt;
+ padding: 10px;
+ width: 800px;
+}
+
+div.cgioptions{
+  position: relative;
+  visibility: hidden;
+  font-size: 10.5px;
+  padding: 0px;
+}
+
+div.img-dec {
+  background: url('/~jes12/css/shadow.png') no-repeat bottom right;
+  clear: left;
+  float: left;
+  margin: 0 0 15px 25px;
+  padding: 0;
+  position: relative;
+}
+
+div.img-dec img {
+  background-color: #fff;
+  border: 1px solid #a9a9a9;
+  display: block;
+  margin: -5px 5px 5px -5px;
+  padding: 0px;
+  position: relative;
+}
+
+div.img-dec-right {
+  background: url('/~jes12/css/shadow.png') no-repeat bottom right;
+  clear: left;
+  float: right;
+  margin: 0 0 15px 25px;
+  padding: 0;
+  position: relative;
+}
+
+div.img-dec-right img {
+  background-color: #fff;
+  border: 1px solid #a9a9a9;
+  display: block;
+  margin: -5px 5px 5px -5px;
+  padding: 0px;
+  position: relative;
+}
+
+img.noborder_200 {
+    border: 0;
+    height: 200px;
+}
+
+img.noborder {
+    border: 0;
+}
+
+img.noborder_right {
+    border: 0;
+    right: 10px;
+}
+  
+font.small {
+  font-size: 9.5pt;
+}
+
+font.tiny {
+  font-size: 7pt;
+}
